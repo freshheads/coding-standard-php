@@ -1,0 +1,6 @@
+{
+    "name": "freshheads/coding-standard-php",
+    "require": {
+        "php": ">=7.4"
+    }
+}
